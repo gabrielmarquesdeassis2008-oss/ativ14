@@ -1,4 +1,5 @@
-let i=10
-for(i=10;i<=100;i=i+10){
+let i=0
+while(i<=100){
     document.writeln(i)
+    i--
 }
